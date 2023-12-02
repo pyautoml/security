@@ -1,0 +1,8 @@
+[DATABASE]
+db_name = production_database_123
+db_user = root_db_user
+db_password = example_password_123
+
+[PROXY]
+http = 127.0.0.1:1010
+https = 12.0.0.1.:1010
