@@ -1,1 +1,1 @@
-# The verification script should be placed her.
+# The verification script should be placed here.
