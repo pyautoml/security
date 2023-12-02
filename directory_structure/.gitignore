@@ -1,0 +1,4 @@
+# example .gitignore file
+
+/configuration
+password.txt
